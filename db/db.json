@@ -1,0 +1,60 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Murad",
+      "address": "delhi",
+      "email": "mud@gmail.com"
+    },
+    {
+      "name": "Zaika",
+      "address": "Delhi",
+      "email": "zaika@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Kababish",
+      "address": "Haldwani",
+      "email": "mud@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Arabaik",
+      "address": "Shaheen Bagh, no 6",
+      "email": "arab@gmail.com",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "name": "Abid Masood",
+      "email": "abidmasood4u@gmail.com",
+      "password": "11111",
+      "id": 1
+    },
+    {
+      "name": "zafar",
+      "email": "zaf4u@gmail.com",
+      "password": "zazaza",
+      "id": 2
+    },
+    {
+      "name": "abid",
+      "email": "abidmasood4u@gmail.com",
+      "password": "qqqq",
+      "id": 3
+    },
+    {
+      "name": "test",
+      "email": "abidmasood4u@gmail.com",
+      "password": "ttt",
+      "id": 4
+    },
+    {
+      "name": "nasir",
+      "email": "nas@gmail.com",
+      "password": "1111",
+      "id": 5
+    }
+  ]
+}
